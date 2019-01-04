@@ -15,4 +15,5 @@
         "stringbuilder": "0.0.11"
     },
     "devDependencies": {}
+    , "scripts": { "start" : "node router.js" }
 }
